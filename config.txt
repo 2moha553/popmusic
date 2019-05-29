@@ -1,6 +1,6 @@
 owner=579808920873467904
-prefix=1
-game=Type 1help
+prefix=#
+game=-لحن.
 stayinchannel=true
 songinstatus=false
-token=NTgyMTk3ODUxODA3ODA5NTU2.XO5fRw.J6jqR6LV3IlKhCqHFja8AX29D-s
+token=NTgyMTkyNjQ0Nzc2NjU2OTE4.XO5lCg.YR2H9y2aHfgr8AMq9DyuYqub8Oo
